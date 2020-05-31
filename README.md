@@ -1,7 +1,7 @@
 #  環境構築
 
 ```
-pip install FastAPI, uvicorn
+pip install FastAPI, uvicorn, python-multipart
 ```
 
 TODO:requirements.txtとかでやる
