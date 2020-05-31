@@ -10,4 +10,5 @@ TODO:requirements.txtとかでやる
 
 |||
 | --- | --- |
-|min|最小のFastAPI構成|
+|min|最小のFastAPIのsample|
+|path_parameter|GETのpath_parameterを使ったsample|
