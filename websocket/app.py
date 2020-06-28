@@ -1,5 +1,3 @@
-#uvicornでは一つのリクエストしか処理できないので多分上手く動作しない
-
 from fastapi import FastAPI, Request, WebSocket
 import uvicorn
 from fastapi.templating import Jinja2Templates
